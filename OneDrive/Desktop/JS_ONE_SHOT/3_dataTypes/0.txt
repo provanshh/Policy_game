@@ -1,0 +1,11 @@
+- Data types : Primitive and Reference 
+
+    - Primitive : String, number, boolean, null, undefined, BigInt, Symbol
+    - Reference : Object, array, function 
+
+
+- JS is a dynamically typed language
+- hence, we can store different data types in same variable 
+
+
+- 

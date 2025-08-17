@@ -1,0 +1,53 @@
+- JS is a scripting language that is used to create interactive and dynamic websites
+
+- interactive websites means users can perform some action on website like :    
+    - button click
+    - submit a form
+    - write comments
+    - live chat
+
+- dynamic website means the website that changes it content or layout like :    
+    - sliding effect
+    - ecommerce website
+    - quiz website
+
+- JS is most popular programming language in the world, used in websites like :   
+    - google
+    - amazon
+    - facebook
+    - netflix
+    - twitter 
+
+- JS has tons of libraries and frameworks to reduce the time and create websites & apps.
+
+- popular frameworks are : 
+    - react
+    - angular
+    - vue js
+
+- use of JS is not limited to frontend web development, its also used in : 
+    - backend web development
+    - mobile app development
+    - desktop app development
+    - game development
+    - api creation
+
+- JS can be helpful in creating :   
+    - amazon webiste 
+    - netflix website
+    - instagram app
+    - whatsapp app
+    - tic tac toe game
+    - snake game
+    - to do list, quiz app, notes app, weather app, calculator, image gallery 
+
+- for JS, you need web browser and code editor (chrome & vs code)
+
+# Pending :
+
+    - HTML CSS One shot with projects :
+    https://www.youtube.com/watch?v=CpgNVyUxUV0 
+
+    - 30 JS projects : 
+    https://www.youtube.com/playlist?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9
+
