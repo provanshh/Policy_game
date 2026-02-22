@@ -1,0 +1,7 @@
+{
+  "name": "Caravan at the Crossroads",
+  "description": "Arcade edition with fixed movement and sound.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
