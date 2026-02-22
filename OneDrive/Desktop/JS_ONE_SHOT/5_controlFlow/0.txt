@@ -1,9 +1,0 @@
-- control flow statements are used to control the flow of execution of a program 
-- they are used to make decisions, execute loops, handle errors 
-- 3 types :     
-    - conditional statements 
-        - if else 
-        - switch 
-        - ternary 
-    - loops 
-    - try/catch statements
